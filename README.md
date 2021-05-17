@@ -1,2 +1,2 @@
 # Split_optimizer
-This is the project of optimizing media splits
+This is the project for solving allocation of some budget.
